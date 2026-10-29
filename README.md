@@ -1,0 +1,1 @@
+This is a Terraform document file, and I have tested this file on my EC2. The one file that I created for myself in my own hands is bpc.py, and the other files I have created with the help of AI. Thank you. If you like the repo, just please star it and fork it. Thank you. 
